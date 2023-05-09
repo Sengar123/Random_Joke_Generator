@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  background-image:url('gg.jpg');
+  background-repeat: no-repeat;
+  background-size: 1550px 700px;
+}
+.main{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 100vh;
+    padding-left: 90px;
+  padding-top:5px;
+}
+.des{
+    padding: 30px 30px;
+    background-color: #ffb980;
+    box-shadow: rgba(100, 100, 111, 0.2)
+    0px 7px 29px 0px;
+    height:100px; 
+    text-align: center;
+  
+}
